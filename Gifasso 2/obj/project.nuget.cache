@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "TT7ocpR7wbO4+bwrIR9BIjM77XndKVnTU66eD0j7A/JiakKvOIuN2ZGiR2WCk0skVcB8i8mZyMAXnU0nwg/1dw==",
+  "success": true,
+  "projectFilePath": "F:\\Projects\\Gifasso\\Gifasso 2\\Gifasso 2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BuddyRoach\\.nuget\\packages\\gifmotion\\1.0.4\\gifmotion.1.0.4.nupkg.sha512",
+    "C:\\Users\\BuddyRoach\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\BuddyRoach\\.nuget\\packages\\microsoft.win32.systemevents\\4.5.0\\microsoft.win32.systemevents.4.5.0.nupkg.sha512",
+    "C:\\Users\\BuddyRoach\\.nuget\\packages\\system.drawing.common\\4.5.0\\system.drawing.common.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
