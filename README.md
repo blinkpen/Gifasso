@@ -7,4 +7,4 @@
  export as animated ascii art gif<br>
  or pause and select a frame from the list to export single frame as ascii png.<br>
  <img src ="https://i.ytimg.com/vi/L-XhRsYxR-0/hq720.jpg">
- ![Screenshot](screenshot.png)
+
