@@ -1,4 +1,4 @@
-﻿//This code was written by Kevin Gragg of iLL-Logic Studios
+﻿//Code written by Kevin Gragg (blinkpen) of iLL-Logic Studios 2022
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
