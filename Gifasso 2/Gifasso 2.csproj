@@ -5,6 +5,8 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <RootNamespace>Gifasso_2</RootNamespace>
     <UseWindowsForms>true</UseWindowsForms>
+    <AssemblyName>Gifasso</AssemblyName>
+    <ApplicationIcon>gifasso.ico</ApplicationIcon>
   </PropertyGroup>
 
   <ItemGroup>

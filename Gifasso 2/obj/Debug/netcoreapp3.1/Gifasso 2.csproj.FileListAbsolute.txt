@@ -15,14 +15,13 @@ F:\Projects\Gifasso 2\Gifasso 2\obj\Debug\netcoreapp3.1\Gifasso 2.csproj.CopyCom
 F:\Projects\Gifasso 2\Gifasso 2\obj\Debug\netcoreapp3.1\Gifasso 2.dll
 F:\Projects\Gifasso 2\Gifasso 2\obj\Debug\netcoreapp3.1\Gifasso 2.pdb
 F:\Projects\Gifasso 2\Gifasso 2\obj\Debug\netcoreapp3.1\Gifasso 2.genruntimeconfig.cache
-F:\Projects\Gifasso\Gifasso 2\bin\Debug\netcoreapp3.1\Gifasso 2.exe
-F:\Projects\Gifasso\Gifasso 2\bin\Debug\netcoreapp3.1\Gifasso 2.deps.json
-F:\Projects\Gifasso\Gifasso 2\bin\Debug\netcoreapp3.1\Gifasso 2.runtimeconfig.json
-F:\Projects\Gifasso\Gifasso 2\bin\Debug\netcoreapp3.1\Gifasso 2.runtimeconfig.dev.json
-F:\Projects\Gifasso\Gifasso 2\bin\Debug\netcoreapp3.1\Gifasso 2.dll
-F:\Projects\Gifasso\Gifasso 2\bin\Debug\netcoreapp3.1\Gifasso 2.pdb
+F:\Projects\Gifasso\Gifasso 2\bin\Debug\netcoreapp3.1\Gifasso.exe
+F:\Projects\Gifasso\Gifasso 2\bin\Debug\netcoreapp3.1\Gifasso.deps.json
+F:\Projects\Gifasso\Gifasso 2\bin\Debug\netcoreapp3.1\Gifasso.runtimeconfig.json
+F:\Projects\Gifasso\Gifasso 2\bin\Debug\netcoreapp3.1\Gifasso.runtimeconfig.dev.json
+F:\Projects\Gifasso\Gifasso 2\bin\Debug\netcoreapp3.1\Gifasso.dll
+F:\Projects\Gifasso\Gifasso 2\bin\Debug\netcoreapp3.1\Gifasso.pdb
 F:\Projects\Gifasso\Gifasso 2\bin\Debug\netcoreapp3.1\GifMotion.dll
-F:\Projects\Gifasso\Gifasso 2\obj\Debug\netcoreapp3.1\Gifasso 2.csprojAssemblyReference.cache
 F:\Projects\Gifasso\Gifasso 2\obj\Debug\netcoreapp3.1\Gifasso_2.Form1.resources
 F:\Projects\Gifasso\Gifasso 2\obj\Debug\netcoreapp3.1\Gifasso_2.Properties.Resources.resources
 F:\Projects\Gifasso\Gifasso 2\obj\Debug\netcoreapp3.1\Gifasso 2.csproj.GenerateResource.cache
@@ -30,6 +29,6 @@ F:\Projects\Gifasso\Gifasso 2\obj\Debug\netcoreapp3.1\Gifasso 2.AssemblyInfoInpu
 F:\Projects\Gifasso\Gifasso 2\obj\Debug\netcoreapp3.1\Gifasso 2.AssemblyInfo.cs
 F:\Projects\Gifasso\Gifasso 2\obj\Debug\netcoreapp3.1\Gifasso 2.csproj.CoreCompileInputs.cache
 F:\Projects\Gifasso\Gifasso 2\obj\Debug\netcoreapp3.1\Gifasso 2.csproj.CopyComplete
-F:\Projects\Gifasso\Gifasso 2\obj\Debug\netcoreapp3.1\Gifasso 2.dll
-F:\Projects\Gifasso\Gifasso 2\obj\Debug\netcoreapp3.1\Gifasso 2.pdb
+F:\Projects\Gifasso\Gifasso 2\obj\Debug\netcoreapp3.1\Gifasso.dll
+F:\Projects\Gifasso\Gifasso 2\obj\Debug\netcoreapp3.1\Gifasso.pdb
 F:\Projects\Gifasso\Gifasso 2\obj\Debug\netcoreapp3.1\Gifasso 2.genruntimeconfig.cache
